@@ -1,0 +1,21 @@
+img{
+            padding: 10px;
+            cursor: pointer;
+        }
+        .nav-bar{
+            margin-bottom: 10px;
+        }
+        button{
+            width: 100%;
+        }
+        button:hover{
+            outline: 0;
+            border: 0;
+            background-color: #ddd;
+        }
+        button:focus{
+            outline: 0;
+        }
+        .well{
+            text-align: center;
+        }
